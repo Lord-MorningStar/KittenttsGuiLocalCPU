@@ -1,0 +1,7 @@
+kitten-tts-cpp==0.2.0
+gradio==6.30.0
+huggingface_hub>=0.24
+soundfile>=0.12
+numpy>=1.26
+certifi>=2024.7.4
+psutil>=5.9

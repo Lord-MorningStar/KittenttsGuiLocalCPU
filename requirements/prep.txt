@@ -1,0 +1,4 @@
+# torch y torchaudio se instalan aparte desde https://download.pytorch.org/whl/cpu
+kittenml==0.9.6
+huggingface_hub>=0.24
+imageio-ffmpeg>=0.5
